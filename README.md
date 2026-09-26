@@ -1,39 +1,27 @@
-# 2026机场推荐与节点入口（2026-09-26）
+# 对比机场时看哪四项（2026-09-26）
 
-先看导航，再去各品牌官网下单。这里**不收款、不发安装包、不代注册**。
-
-**导航：** [ivel-mind.github.io](https://ivel-mind.github.io/jichang-tuijian/)
-
-核对：2026-09-26
+这篇是对照方法，不是品牌列表，没有推荐，没有购买链接。
 
 <!-- bump: 2026-09-26 -->
 
-## 推荐入口（先核域名）
+搜「机场推荐」之前，先定要对比的列。列不齐，评分没有意义。
 
-| 品牌 | 仓 | 官网 |
-|------|----|------|
-| 良心云 | `liangxin` | https://liangxiny.com/ |
-| 奈云 | `naiyun` | https://naiyu.org/ |
-| 奶昔 | `naixi` | https://naixiyun.com/ |
-| 白月光 | `bygcloud` | https://bygcloud.net/ |
-| Mitce | `mitce` | https://mitce.org/ |
-| 红杏 | `hongxingyun` | https://hongxing.space/ |
-| 牧牛云 | `muniucloud` | https://muniu.org/ |
-| ChatVPN | `chatvpn` | https://chatvpn.site/ |
+## 域名
 
-差一个字母就停。购买只在上表「官网」列完成。
+只认你自己核对过的那一个主机名。搜索广告、私聊「备用域名」、多一个字母的仿站，不进入对比。
 
-## 相关仓
+## 流量怎么算
 
-- [jichang-tuijian](https://github.com/ivel-mind/jichang-tuijian)
-- [liangxin](https://github.com/ivel-mind/liangxin)
-- [liangxinyun](https://github.com/ivel-mind/liangxinyun)
-- [naiyun](https://github.com/ivel-mind/naiyun)
-- [naiyu](https://github.com/ivel-mind/naiyu)
-- [naixi](https://github.com/ivel-mind/naixi)
-- [nexitally](https://github.com/ivel-mind/nexitally)
-- [bygcloud](https://github.com/ivel-mind/bygcloud)
-- [mitce](https://github.com/ivel-mind/mitce)
-- [hongxingyun](https://github.com/ivel-mind/hongxingyun)
-- [muniucloud](https://github.com/ivel-mind/muniucloud)
-- [chatvpn](https://github.com/ivel-mind/chatvpn)
+记下每月额度、哪一天重置、用完之后是限速还是断开。写「不限」但没有重置日的，单独标出来，不要和写明额度的放在同一列。
+
+## 客户端和协议
+
+看官网给出的客户端还在不在更新，以及它实际支持的协议。要先安装来历不明的包才能看到价格的，这一家不进入对比。
+
+## 退款写在哪
+
+退款条件在套餐页或付款页上。只在聊天里答应、页面没有的，按没有退款记。
+
+## 怎么记
+
+一家一行，四列填完再排序。不要把没核对过域名的地址写进同一张表。
