@@ -2,7 +2,7 @@
 
 先看导航，再去各品牌官网下单。这里**不收款、不发安装包、不代注册**。
 
-**导航：** [ivel-mind.github.io](https://ivel-mind.github.io/)
+**导航：** [ivel-mind.github.io](https://ivel-mind.github.io/jichang-tuijian/)
 
 核对：2026-09-26
 
